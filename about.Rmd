@@ -1,0 +1,19 @@
+---
+title: "About VoAFP"
+output:
+  html_document:
+    theme: yeti
+    toc: true
+    toc_float: true
+    css: styles.css
+---
+
+## Our Story
+
+VoAFP began as a grassroots initiative by patients, for patients. We strive to foster a supportive and inclusive community.
+
+## Our Team
+
+We are a diverse group of individuals passionate about improving outcomes for people living with A-fib.
+
+---

@@ -1,0 +1,64 @@
+---
+title: "Voices of Atrial Filbrailtion Patients"
+output:
+  html_document:
+    theme: yeti
+    toc: true
+    toc_float: true
+    css: styles.css
+---
+
+Voice of Atrial Fibrillation Patients (VoAFP) is dedicated to amplifying the voices of those affected by A-fib. Our mission is to support, advocate, and inform patients through accessible information, community stories, and up-to-date research.
+
+# Our Work
+
+- Patient advocacy
+- Doctor-patient communication initiatives
+- Policy engagement
+- Community support groups
+
+# Mission
+
+Voices of Atrial Fibrillation Patients (VoAFP.org) is a dedicated community founded on the belief that the collective experiences of individuals living with atrial fibrillation are invaluable in shaping the future of medical research and ultimately improving patient outcomes. To provide a platform where AFib patients can share their stories, insights, and challenges, fostering a supportive environment that amplifies their voices and connects them with the medical research community. By bridging the gap between patients and researchers, we aim to facilitate a deeper understanding of AFib, promote patient-centered research, and drive innovation in treatments and care
+
+# Vision 
+
+Encouraging open dialogue between patients and their practitioners, fostering a means towards improving health outcomes. Achievable only through active listening, empathy, and the establishment of goals through discussion. By prioritizing communication and understanding, both parties can significantly achieve better outcomes
+
+# Our Network
+
+<div style="margin-top: 0.5cm;"></div>
+
+```{=html}
+
+<div class="row">
+  <div class="col-sm-4">
+    <h2>Patients and Caregivers</h2>
+    <ul>
+      <li>Advocacy</li>
+      <li>Education</li>
+      <li>Support</li>
+    </ul>
+  </div>
+  <div class="col-sm-4">
+    <h2>Researchers</h2>
+    <ul>
+      <li>Advocacy</li>
+      <li>Education</li>
+      <li>Support</li>
+    </ul>
+  </div>
+  <div class="col-sm-4">
+    <h2>Clinicians, Healthcare Facilities & Community Clinics</h2>
+    <ul>
+      <li>Advocacy</li>
+      <li>Education</li>
+      <li>Support</li>
+    </ul>
+  </div>
+</div>
+```
+
+# Contact
+
+Email us at [contact@voafp.org](mailto:contact@voafp.org).

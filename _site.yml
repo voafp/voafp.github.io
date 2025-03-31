@@ -1,0 +1,17 @@
+name: "VoAFP"
+output_dir: "."
+navbar:
+  title: "VoAFP"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Research"
+      href: projects.html
+    - text: "Donate"
+      href: projects.html
+    - text: "Contact Us"
+      href: contact.html
