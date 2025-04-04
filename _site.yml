@@ -7,11 +7,9 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Projects"
-      href: projects.html
-    - text: "Research"
-      href: projects.html
-    - text: "Donate"
-      href: projects.html
+    - text: "Projects and Research"
+      href: projects_and_research.html
     - text: "Contact Us"
-      href: contact.html
+      href: contact_us.html
+    - text: "Donate"
+      href: donate.html

@@ -25,11 +25,15 @@ Voices of Atrial Fibrillation Patients (VoAFP.org) is a dedicated community foun
 
 Encouraging open dialogue between patients and their practitioners, fostering a means towards improving health outcomes. Achievable only through active listening, empathy, and the establishment of goals through discussion. By prioritizing communication and understanding, both parties can significantly achieve better outcomes
 
-# Our Network
+
+```{=html}
+
+<div style="text-align: center;">
+  <h1>Our Network</h1>
+</div>
 
 <div style="margin-top: 0.5cm;"></div>
 
-```{=html}
 
 <div class="row">
   <div class="col-sm-4">
@@ -57,6 +61,7 @@ Encouraging open dialogue between patients and their practitioners, fostering a 
     </ul>
   </div>
 </div>
+
 ```
 
 # Contact
